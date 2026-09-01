@@ -1,0 +1,11 @@
+# enviroment variables
+.env
+.env.local
+
+# file systems
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
